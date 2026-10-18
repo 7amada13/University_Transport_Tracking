@@ -6,10 +6,10 @@ Section Group: Thursday Group
 Course: System Analysis and Design
 
 Team Members:
-1. Ahmed Khaled Ahmed Ali Ibrahim (Team Leader)  1202540523
+1. Ahmed Khaled Ahmed Ali Ibrahim (Team Leader)  (1202540523)
 2. Mahmoud AbdALHAMED AboAluazed Khattab (202440523)
-3. Badr Ezz Eldin Mostafa Khaled     1202540610
-4. Amin Mohamed Abdelmomen Elkholy   1202540600
+3. Badr Ezz Eldin Mostafa Khaled     (1202540610)
+4. Amin Mohamed Abdelmomen Elkholy   (1202540600)
 5. 
 
 Project Overview:
